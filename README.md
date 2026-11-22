@@ -1,6 +1,8 @@
 # The Gilded Hour — a heist in three rooms
 
-![make.fun](https://img.shields.io/badge/make.fun-best--heist--game--20261122--0559-gold)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/Owlvans/the-gilded-hour/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/Owlvans/the-gilded-hour/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
 A complete, original top-down heist game that plays offline in a desktop
