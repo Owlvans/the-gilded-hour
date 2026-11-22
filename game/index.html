@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Gilded Hour — a heist in three rooms</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #0b0b10; height: 100%; overflow: hidden; }
+  body { display: flex; align-items: center; justify-content: center; }
+  #wrap { position: relative; width: 960px; height: 600px; }
+  canvas { display: block; width: 960px; height: 600px; background: #14141c;
+           image-rendering: pixelated; cursor: crosshair; }
+  #hint { position: absolute; left: 0; right: 0; bottom: -26px; text-align: center;
+          color: #8a8a9a; font: 12px/1.4 system-ui, sans-serif; letter-spacing: .04em; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="960" height="600"></canvas>
+  <div id="hint">WASD / arrows — move &nbsp;·&nbsp; Shift — sneak &nbsp;·&nbsp; Q — toss a marble &nbsp;·&nbsp; E — EMP burst &nbsp;·&nbsp; Space — grab loot / slip into a vent</div>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
